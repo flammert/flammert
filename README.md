@@ -1,16 +1,14 @@
-### Hi there 👋
+# Femke Lammertink
 
-<!--
-**flammert/flammert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education/Affiliation
+PhD student UMC Utrecht / Donders Nijmegen
 
-Here are some ideas to get you started:
+## Publications
+see [Google Scholar](https://scholar.google.com/citations?user=o8jUGl8AAAAJ&hl=en&authuser=1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on:
+Early-life stress and large-scale brain network / connectomics following preterm birth
+
+## 📫 How to reach me:
+femke.lammertink@gmail.com
+f.lammertink@umcutrecht.nl
